@@ -1,0 +1,25 @@
+{
+  "name": "adambot",
+  "version": "1.0.0",
+  "description": "open version adam for fb messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ekipio/adambot.git"
+  },
+  "author": "Philippe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekipio/adambot/issues"
+  },
+  "homepage": "https://github.com/Ekipio/adambot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
